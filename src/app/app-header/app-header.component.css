@@ -1,0 +1,18 @@
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+a {
+    float: left;
+    padding: 0.5rem;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    transition: all .25s ease-in-out;
+}
+
+a:hover {
+    color: black;
+    background-color: #EEE;
+}
